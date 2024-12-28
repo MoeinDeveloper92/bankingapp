@@ -24,7 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      {/* This basically allow us to use those font acroos our applcaiton */}
+      {/* This basically allow us to use those font acroos our */}
       <body className={`${inter.variable} ${ibmPlexSerif.variable}`}>
         {children}
       </body>
